@@ -141,3 +141,6 @@ notebook/templates/*.html
 
 # Dumps
 *.dump
+
+# Graphml
+*.graphml
