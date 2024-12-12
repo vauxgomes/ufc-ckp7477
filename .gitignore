@@ -144,3 +144,6 @@ notebook/templates/*.html
 
 # Graphml
 *.graphml
+
+# Virtual Environtment
+venv/*
