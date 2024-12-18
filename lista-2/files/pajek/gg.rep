@@ -1,0 +1,103 @@
+﻿
+
+==============================================================================
+Reading Network   ---    C:\Users\vauxs\Downloads\gg.net
+==============================================================================
+ Working...
+         978507 lines read.
+ Time spent:  0:00:01
+
+==============================================================================
+Computing Clustering Coefficients
+==============================================================================
+ Working...
+ Watts-Strogatz Clustering Coefficient: 0.96932057
+ Network Clustering Coefficient (Transitivity): 0.91998835
+ Time spent:  0:00:08
+
+==============================================================================
+All degree centrality of 1. C:\Users\vauxs\Downloads\gg.net (6149)
+==============================================================================
+ Working...
+-------------------------------------------------
+Network All Degree Centralization = 1007.19521718
+-------------------------------------------------
+ Time spent:  0:00:00
+
+==============================================================================
+All closeness centrality of 1. C:\Users\vauxs\Downloads\gg.net (6149)
+==============================================================================
+ Working...
+ 3.25% finished. Time spent: 0:00:05
+ 6.51% finished. Time spent: 0:00:10
+ 9.76% finished. Time spent: 0:00:15
+13.01% finished. Time spent: 0:00:21
+16.26% finished. Time spent: 0:00:26
+19.52% finished. Time spent: 0:00:31
+22.77% finished. Time spent: 0:00:37
+26.02% finished. Time spent: 0:00:42
+29.27% finished. Time spent: 0:00:47
+32.53% finished. Time spent: 0:00:53
+35.78% finished. Time spent: 0:00:58
+39.03% finished. Time spent: 0:01:03
+42.28% finished. Time spent: 0:01:09
+45.54% finished. Time spent: 0:01:14
+48.79% finished. Time spent: 0:01:19
+52.04% finished. Time spent: 0:01:25
+55.29% finished. Time spent: 0:01:30
+58.55% finished. Time spent: 0:01:35
+61.80% finished. Time spent: 0:01:40
+65.05% finished. Time spent: 0:01:45
+68.30% finished. Time spent: 0:01:50
+71.56% finished. Time spent: 0:01:56
+74.81% finished. Time spent: 0:02:00
+78.06% finished. Time spent: 0:02:02
+81.31% finished. Time spent: 0:02:06
+84.57% finished. Time spent: 0:02:10
+87.82% finished. Time spent: 0:02:13
+91.07% finished. Time spent: 0:02:16
+94.32% finished. Time spent: 0:02:16
+97.58% finished. Time spent: 0:02:17
+----------------------------------------------------------------------------------------
+Closeness Centralization cannot be computed since the network is not weakly connected!
+----------------------------------------------------------------------------------------
+ Time spent:  0:02:17
+
+==============================================================================
+Betweenness centrality of 1. C:\Users\vauxs\Downloads\gg.net (6149)
+==============================================================================
+ Working...
+ 3.25% finished. Time spent: 0:00:05
+ 6.51% finished. Time spent: 0:00:11
+ 9.76% finished. Time spent: 0:00:17
+13.01% finished. Time spent: 0:00:23
+16.26% finished. Time spent: 0:00:28
+19.52% finished. Time spent: 0:00:34
+22.77% finished. Time spent: 0:00:40
+26.02% finished. Time spent: 0:00:45
+29.27% finished. Time spent: 0:00:50
+32.53% finished. Time spent: 0:00:56
+35.78% finished. Time spent: 0:01:01
+39.03% finished. Time spent: 0:01:06
+42.28% finished. Time spent: 0:01:11
+45.54% finished. Time spent: 0:01:17
+48.79% finished. Time spent: 0:01:22
+52.04% finished. Time spent: 0:01:27
+55.29% finished. Time spent: 0:01:32
+58.55% finished. Time spent: 0:01:38
+61.80% finished. Time spent: 0:01:42
+65.05% finished. Time spent: 0:01:48
+68.30% finished. Time spent: 0:01:53
+71.56% finished. Time spent: 0:01:58
+74.81% finished. Time spent: 0:02:02
+78.06% finished. Time spent: 0:02:04
+81.31% finished. Time spent: 0:02:09
+84.57% finished. Time spent: 0:02:12
+87.82% finished. Time spent: 0:02:15
+91.07% finished. Time spent: 0:02:18
+94.32% finished. Time spent: 0:02:18
+97.58% finished. Time spent: 0:02:19
+-----------------------------------------------
+Network Betweenness Centralization = 0.11316682
+-----------------------------------------------
+ Time spent:  0:02:19

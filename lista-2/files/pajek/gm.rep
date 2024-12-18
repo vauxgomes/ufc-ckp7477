@@ -1,0 +1,68 @@
+﻿
+
+==============================================================================
+Reading Network   ---    C:\Users\vauxs\Downloads\gm.net
+==============================================================================
+ Working...
+          74845 lines read.
+ Time spent:  0:00:00
+
+==============================================================================
+Computing Clustering Coefficients
+==============================================================================
+ Working...
+ Watts-Strogatz Clustering Coefficient: 0.97447504
+ Network Clustering Coefficient (Transitivity): 0.89819680
+ Time spent:  0:00:00
+
+==============================================================================
+All degree centrality of 1. C:\Users\vauxs\Downloads\gm.net (1621)
+==============================================================================
+ Working...
+------------------------------------------------
+Network All Degree Centralization = 291.18838789
+------------------------------------------------
+ Time spent:  0:00:00
+
+==============================================================================
+All closeness centrality of 1. C:\Users\vauxs\Downloads\gm.net (1621)
+==============================================================================
+ Working...
+12.34% finished. Time spent: 0:00:00
+24.68% finished. Time spent: 0:00:00
+37.01% finished. Time spent: 0:00:00
+49.35% finished. Time spent: 0:00:00
+61.69% finished. Time spent: 0:00:00
+74.03% finished. Time spent: 0:00:00
+86.37% finished. Time spent: 0:00:00
+98.70% finished. Time spent: 0:00:00
+----------------------------------------------------------------------------------------
+Closeness Centralization cannot be computed since the network is not weakly connected!
+----------------------------------------------------------------------------------------
+ Time spent:  0:00:00
+
+==============================================================================
+Betweenness centrality of 1. C:\Users\vauxs\Downloads\gm.net (1621)
+==============================================================================
+ Working...
+12.34% finished. Time spent: 0:00:00
+24.68% finished. Time spent: 0:00:00
+37.01% finished. Time spent: 0:00:00
+49.35% finished. Time spent: 0:00:00
+61.69% finished. Time spent: 0:00:00
+74.03% finished. Time spent: 0:00:00
+86.37% finished. Time spent: 0:00:00
+98.70% finished. Time spent: 0:00:00
+-----------------------------------------------
+Network Betweenness Centralization = 0.06919552
+-----------------------------------------------
+ Time spent:  0:00:00
+
+==============================================================================
+All degree centrality of 1. C:\Users\vauxs\Downloads\gm.net (1621)
+==============================================================================
+ Working...
+------------------------------------------------
+Network All Degree Centralization = 291.18838789
+------------------------------------------------
+ Time spent:  0:00:00
