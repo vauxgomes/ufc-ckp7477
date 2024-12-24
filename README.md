@@ -5,4 +5,5 @@
 - Notebooks
   - [Lista 1](./lista-1/ckp8087-lista-1.ipynb)
   - [Lista 2](./lista-2/ckp8087-lista-2.ipynb)
+  - [Lista 3](./lista-3/ckp8087-lista-3.ipynb)
 
