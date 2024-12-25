@@ -142,8 +142,10 @@ notebook/templates/*.html
 # Dumps
 *.dump
 
-# Graphml
-*.graphml
+# # Graphml
+# *.graphml
 
 # Virtual Environtment
 venv/*
+
+/lista-3/*/*/viral.csv
