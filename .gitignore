@@ -146,6 +146,6 @@ notebook/templates/*.html
 # *.graphml
 
 # Virtual Environtment
-venv/*
+.venv/*
 
 /lista-3/*/*/viral.csv
