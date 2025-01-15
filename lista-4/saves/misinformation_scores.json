@@ -1,0 +1,42 @@
+{
+  "girvan_newman": {
+    "modularity": 0.2337986346634225,
+    "coverage": 0.9998361148288766,
+    "performance": 0.6780161613392129
+  },
+  "k_clique": {
+    "modularity": 0.179805935161165,
+    "coverage": 1.0,
+    "performance": 0.6215900868995666
+  },
+  "greedy_modularity_communities": {
+    "modularity": 0.736711896397982,
+    "coverage": 0.8823304471333752,
+    "performance": 0.9759103129450651
+  },
+  "label_propagation": {
+    "modularity": 0.6164145039828288,
+    "coverage": 0.9671410231897517,
+    "performance": 0.9598982490613172
+  },
+  "fast_label_propagation_communities": {
+    "modularity": 0.758741942637891,
+    "coverage": 0.9296386331976728,
+    "performance": 0.9959977456378855
+  },
+  "edge_betweenness_partition": {
+    "modularity": 0.17980593516116494,
+    "coverage": 1.0,
+    "performance": 0.6215900868995666
+  },
+  "edge_current_flow_betweenness_partition": {
+    "modularity": 0.17980593516116494,
+    "coverage": 1.0,
+    "performance": 0.6215900868995666
+  },
+  "louvain_communities": {
+    "modularity": 0.7655672385901725,
+    "coverage": 0.933435306328699,
+    "performance": 0.9890785294856855
+  }
+}
