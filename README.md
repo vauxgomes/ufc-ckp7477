@@ -7,4 +7,5 @@
   - [Lista 2](./lista-2/ckp8087-lista-2.ipynb)
   - [Lista 3](./lista-3/ckp8087-lista-3.ipynb)
   - [Lista 4](./lista-4/ckp8087-lista-4.ipynb)
+  - [Lista 5](./lista-5/ckp8087-lista-5.ipynb)
 
