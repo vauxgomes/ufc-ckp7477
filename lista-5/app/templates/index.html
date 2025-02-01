@@ -40,9 +40,9 @@
             <input
               type="text"
               class="form-control search-input"
-              name="term"
+              name="terms"
               placeholder="Digite sua pesquisa"
-              value="{{ term }}"
+              value="{{ terms }}"
               required
             />
           </div>
@@ -73,9 +73,10 @@
       <!-- Resultados -->
       {% if results %}
       <h2>Resultados da Pesquisa:</h2>
-      <table class="table table-striped">
+      <table class="table table-striped table-hover mb-4">
         <thead
           <tr>
+            <th>Termo</th>
             <th width="50px">ID</th>
             <th>Documento</th>
             <th width="100px">Score</th>
@@ -83,19 +84,24 @@
         </thead>
         <tbody>
           {% for item in results %}
-          <tr>
+          <tr class="align-middle">
+            <td><small><i>{{ item.term }}</small></i></td>
             <td>{{ item.document_id }}</td>
-            <td>{{ item.document_text }}</td>
+            <td class="text-wrap text-break">{{ item.document_text }}</td>
             <td>{{ item.score }}</td>
           </tr>
           {% endfor %}
         </tbody>
       </table>
+
+      <!-- <h2>Núvem:</h2> -->
+      <img class="rounded-2" src="data:image/png;base64,{{ img_str }}" alt="Núvem">
+
       {% endif %}
     </main>
 
     <footer class="mt-auto">
-      <p>&copy; 2025 Lista 5 - Estrutura de Dados</p>
+      <p class="mb-0">&copy; 2025 Lista 5 - Estrutura de Dados</p>
     </footer>
   </body>
 </html>
